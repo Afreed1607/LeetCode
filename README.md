@@ -17,3 +17,19 @@ I am an optimistic and focused person.</br>
 
 
 ![Logo](https://media.giphy.com/media/FlJbvchalNGPH6M43X/giphy.gif)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Afreed1607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Afreed1607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Afreed1607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
