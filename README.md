@@ -32,4 +32,8 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Afreed1607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Afreed1607/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
