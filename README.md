@@ -28,6 +28,7 @@ I am an optimistic and focused person.</br>
 | [0016-3sum-closest](https://github.com/Afreed1607/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Afreed1607/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Afreed1607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Afreed1607/LeetCode/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ I am an optimistic and focused person.</br>
 | [0016-3sum-closest](https://github.com/Afreed1607/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Afreed1607/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Afreed1607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Afreed1607/LeetCode/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
