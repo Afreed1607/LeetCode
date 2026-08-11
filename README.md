@@ -43,6 +43,7 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Afreed1607/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Afreed1607/LeetCode/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afreed1607/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Afreed1607/LeetCode/tree/master/0043-multiply-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -78,4 +80,8 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afreed1607/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Afreed1607/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
