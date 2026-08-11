@@ -24,6 +24,7 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Afreed1607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Afreed1607/LeetCode/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,12 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Afreed1607/LeetCode/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Afreed1607/LeetCode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Afreed1607/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
