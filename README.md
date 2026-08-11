@@ -62,6 +62,7 @@ I am an optimistic and focused person.</br>
 | [0016-3sum-closest](https://github.com/Afreed1607/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Afreed1607/LeetCode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/Afreed1607/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Afreed1607/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ I am an optimistic and focused person.</br>
 | [0043-multiply-strings](https://github.com/Afreed1607/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Afreed1607/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Afreed1607/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Afreed1607/LeetCode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -113,4 +115,9 @@ I am an optimistic and focused person.</br>
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Afreed1607/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Afreed1607/LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Afreed1607/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
