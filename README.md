@@ -64,6 +64,7 @@ I am an optimistic and focused person.</br>
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afreed1607/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Afreed1607/LeetCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Afreed1607/LeetCode/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |
