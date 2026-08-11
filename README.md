@@ -30,6 +30,7 @@ I am an optimistic and focused person.</br>
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Afreed1607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Afreed1607/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Afreed1607/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Afreed1607/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ I am an optimistic and focused person.</br>
 | ------- |
 | [0007-reverse-integer](https://github.com/Afreed1607/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Afreed1607/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Afreed1607/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
